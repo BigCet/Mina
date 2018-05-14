@@ -1,0 +1,2 @@
+# Mina
+Bányával kapcsolatos projekt
